@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "schema_version": "1.1.0",
+    "generated_at": "2024-01-15T10:30:00.000000",
+    "pipeline_steps": ["onboarding", "brand", "landing"]
+  },
+  "project": {
+    "product_name": "FlowTask",
+    "tagline": "Work smarter, not harder",
+    "description": "FlowTask is an AI-powered task management tool that helps remote teams and freelancers prioritize their work intelligently. Stop drowning in to-dos and start shipping what matters.",
+    "target_audience": "Remote teams and freelancers",
+    "value_proposition": "Simplify task management with AI-powered prioritization",
+    "tone": "friendly",
+    "keywords": ["task management", "productivity", "ai", "remote work", "collaboration"]
+  },
+  "brand": {
+    "colors": {
+      "primary": "#6366F1",
+      "secondary": "#818CF8",
+      "accent": "#10B981",
+      "background": "#FAFAFA",
+      "text": "#1F2937"
+    },
+    "fonts": {
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "tone_rules": [
+      "Be warm and approachable",
+      "Use simple, jargon-free language",
+      "Focus on user benefits, not features"
+    ]
+  },
+  "content": {
+    "hero": {
+      "headline": "Manage Tasks Like Never Before",
+      "subheadline": "FlowTask uses AI to help you prioritize what matters most. Stop drowning in to-dos and start shipping.",
+      "cta_text": "Start Free Trial"
+    },
+    "features": [
+      {
+        "title": "AI Prioritization",
+        "description": "Let AI analyze your tasks and suggest the optimal order to tackle them.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Team Collaboration",
+        "description": "Share projects, assign tasks, and track progress in real-time with your team.",
+        "icon": "users"
+      },
+      {
+        "title": "Smart Reminders",
+        "description": "Never miss a deadline with intelligent notifications that adapt to your schedule.",
+        "icon": "clock"
+      }
+    ],
+    "testimonial": {
+      "quote": "FlowTask transformed how our remote team works. We shipped 40% more features last quarter and everyone feels less stressed.",
+      "author": "Sarah Chen",
+      "role": "Engineering Lead, TechStartup Inc."
+    },
+    "footer_cta": "Ready to boost your productivity?",
+    "variants": {
+      "headlines": [
+        "Stop Managing Tasks. Start Shipping.",
+        "Your AI-Powered Productivity Partner"
+      ],
+      "ctas": [
+        "Try Free for 14 Days",
+        "Get Started Now"
+      ]
+    }
+  },
+  "render": {
+    "template_type": "saas",
+    "variant_id": 0
+  }
+}
