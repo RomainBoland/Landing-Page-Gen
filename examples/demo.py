@@ -9,7 +9,7 @@ EXAMPLE_1 = UserInput(
     target_audience="Freelancers and small teams",
     value_proposition="Save 2 hours a day with AI",
     tone="friendly",
-    template_type="saas",
+    template_type="agency",
 )
 
 # Example 2: B2B Enterprise SaaS → template "saas"
